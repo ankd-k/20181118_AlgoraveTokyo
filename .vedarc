@@ -1,0 +1,7 @@
+{
+  pixelRatio: 1.0,
+  audio: true,
+  midi: true,
+  osc: 8000,
+  glslify:true,
+}
